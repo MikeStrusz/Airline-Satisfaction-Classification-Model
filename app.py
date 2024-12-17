@@ -314,4 +314,5 @@ elif page == "About Me":
     """)
 
     # Insert the image
-    st.image("images/mike.jpeg", caption="Me on the Milwaukee Riverwalk, wearing one of my 50+ bowties.", use_column_width=True)
+    # Insert the image
+    st.image("images/mike.jpeg", caption="Me on the Milwaukee Riverwalk, wearing one of my 50+ bowties.", use_container_width=True)
