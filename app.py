@@ -63,7 +63,7 @@ elif page == "Data Overview":
         
         This dataset features over 100,000 rows and 23 variables to help answer this question.  
         Whether it's inflight entertainment, seat comfort, or even gate location, there are 
-        insights waiting to be uncovered. Let your data detective mind take flight?
+        insights waiting to be uncovered. Let your data detective mind take flight!
     """)
 
     # Data Dictionary Section (moved first)
